@@ -26,10 +26,12 @@ Import sql-files in your database
 
 Add this in your server.cfg :
 
+```
 start Casino
 start program-casino
 start program-blackjack
 start slotmachine_1
+```
 
 If you want player management you have to set Config.EnablePlayerManagement to true in config.lua 
 You can config VaultManagement & Helicopters with true/false (don't forget to comment the area in the same file)
