@@ -38,6 +38,19 @@ You can config VaultManagement & Helicopters with true/false (don't forget to co
 
 [FEATURES]
 
+Casino job
+    Fully customizable job
+    Boss, Bartender, Guard, Croupier 
+    Cloakroom, Vault, Fridge, Vehicles, BossActions
+    Cloakroom : (Casino Outfits)
+    Shops (harvesting) for Crafting (alcoholic drinks, appetizers, non-alcoholic drinks)
+    Crafting menu for Bosses + Bartender (only with the right clothing) : coktails, mix appetizers
+    Spawning & delete Vehicles
+    working Teleporters
+    Players can miss the crafting part (~10% miss) and lose the components used
+    Billing menu
+    Girl are not supplied
+    Phone/gcphone Support
 
 [SHOPS (HARVESTING) AREAS]
 
