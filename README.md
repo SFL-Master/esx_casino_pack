@@ -8,11 +8,13 @@ FXServer ESX CASINO JOB (only German at this Time)
     - Map_Files & DLC Cars  => (https://www.file-upload.net/download-13683714/Casino.zip.html)
 
     
-Player management (billing and boss actions)
+- Player management (billing and boss actions)
+
     - esx_society => (https://github.com/ESX-Org/esx_society)
     - esx_billing => (https://github.com/ESX-Org/esx_billing)
 
-Items effects (hunger, thirst, drunk)
+- Items effects (hunger, thirst, drunk)
+
     - esx_status => (https://github.com/ESX-Org/esx_status)
     - esx_basicneeds => (https://github.com/ESX-Org/esx_basicneeds)
     - esx_optionalsneeds => (https://github.com/ESX-Org/esx_optionalneeds)
